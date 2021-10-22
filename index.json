@@ -1,0 +1,22 @@
+{
+  "api/JMRSDKExampleSnippets.PointerShape.html": {
+    "href": "api/JMRSDKExampleSnippets.PointerShape.html",
+    "title": "Namespace JMRSDKExampleSnippets.PointerShape | JMR Samples",
+    "keywords": "Namespace JMRSDKExampleSnippets.PointerShape Classes PointerShapeManager Example of changing pointer shape (inbuilt and custom prefabs)."
+  },
+  "api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.html": {
+    "href": "api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.html",
+    "title": "Class PointerShapeManager | JMR Samples",
+    "keywords": "Class PointerShapeManager Example of changing pointer shape (inbuilt and custom prefabs). Inheritance Object PointerShapeManager Namespace : JMRSDKExampleSnippets.PointerShape Assembly : cs.temp.dll.dll Syntax public class PointerShapeManager : MonoBehaviour Fields Cursor1Prefab Additional Custom Cursor Declaration public GameObject Cursor1Prefab Field Value Type Description GameObject Cursor2Prefab Additional Custom Cursor Declaration public GameObject Cursor2Prefab Field Value Type Description GameObject CursorParent Parent holding all cursor types Declaration protected Transform CursorParent Field Value Type Description Transform PointerObject JMRAnimatedCursor object Declaration protected Transform PointerObject Field Value Type Description Transform Methods AddDisabledCursor(GameObject) Add cursor in the hierarchy of CursorParent and caliberate it's transform Declaration public void AddDisabledCursor(GameObject cursorPrefab) Parameters Type Name Description GameObject cursorPrefab Custom cursor prefab to add. CallCursor(Int32) Switch between cursors Declaration public void CallCursor(int index) Parameters Type Name Description Int32 index index of cursor to activate Start() On first frame assign PointerObject and CursorParent; Add custom cursors in the hierarchy of CursorParent Declaration public void Start()"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "ExampleSnippets-PointerShape | JMR Samples",
+    "keywords": "ExampleSnippets-PointerShape Example of changing pointer shape, adding crosshair."
+  },
+  "manual/JMRSamples.html": {
+    "href": "manual/JMRSamples.html",
+    "title": "Sample | JMR Samples",
+    "keywords": "Sample"
+  }
+}

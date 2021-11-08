@@ -24,11 +24,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.yml",
+      "source_relative_path": "api/JMRSDKExampleSnippets.PointerShapeManager.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.html",
-          "hash": "e6x8Sq81SVgVPQPAtO+BqPfh7TW5l9ag9Dpa/Ij+JEY="
+          "relative_path": "api/JMRSDKExampleSnippets.PointerShapeManager.html",
+          "hash": "gaHqse2bRYMOlPkOka8WB1NTk4P8Twy0DKDWq3aa3Fk="
         }
       },
       "is_incremental": false,
@@ -36,11 +36,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/JMRSDKExampleSnippets.PointerShape.yml",
+      "source_relative_path": "api/JMRSDKExampleSnippets.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JMRSDKExampleSnippets.PointerShape.html",
-          "hash": "/1zKOkQ5TH4ndy55InOgdT3W5KjIBJhGVk7N8TWARfk="
+          "relative_path": "api/JMRSDKExampleSnippets.html",
+          "hash": "8wTtU+c/LvIw92Vps0jHojVJEafxkNER0V/NqzayrhU="
         }
       },
       "is_incremental": false,
@@ -52,7 +52,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "inNnU0Xb4wC9flTGWoFqiMxoHoE4fAtASdeCq136130="
+          "hash": "oOduilnNqMna1fIC41qayEAjGy9MdLZbbhX+XvytmJY="
         }
       },
       "is_incremental": false,
@@ -64,7 +64,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "86SdAR5Wievg4g6dYIPbliju4EiQDwb20/9ZX4GkTmw="
+          "hash": "3BvA+Io31RgXpm5DTdBTw/sR/GPX43sX3cMXKrphkTo="
         }
       },
       "is_incremental": false,
@@ -76,7 +76,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/JMRSamples.html",
-          "hash": "oQWs05QLu8H8TYa9Dc3URpo0t3K56sSSsJblz7N1LLA="
+          "hash": "RHOet6g2dOVwxd5d5OSKGd7OjIvaV2ssSOjNlJI+j3E="
         }
       },
       "is_incremental": false,
@@ -122,7 +122,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "k61/wuWA46cDpljj2PIon+wJFTxdu81Obr8V4Uu/L9Q="
+          "hash": "NYNnOJZ88KMB8rBXpBhhfXgGpwLXtPTqZ0vJglRZl+8="
         }
       },
       "is_incremental": false,

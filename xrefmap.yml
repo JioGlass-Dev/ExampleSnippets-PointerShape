@@ -1,78 +1,78 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
-- uid: JMRSDKExampleSnippets.PointerShape
-  name: JMRSDKExampleSnippets.PointerShape
-  href: api/JMRSDKExampleSnippets.PointerShape.html
-  commentId: N:JMRSDKExampleSnippets.PointerShape
-  fullName: JMRSDKExampleSnippets.PointerShape
-  nameWithType: JMRSDKExampleSnippets.PointerShape
-- uid: JMRSDKExampleSnippets.PointerShape.PointerShapeManager
+- uid: JMRSDKExampleSnippets
+  name: JMRSDKExampleSnippets
+  href: api/JMRSDKExampleSnippets.html
+  commentId: N:JMRSDKExampleSnippets
+  fullName: JMRSDKExampleSnippets
+  nameWithType: JMRSDKExampleSnippets
+- uid: JMRSDKExampleSnippets.PointerShapeManager
   name: PointerShapeManager
-  href: api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.html
-  commentId: T:JMRSDKExampleSnippets.PointerShape.PointerShapeManager
-  fullName: JMRSDKExampleSnippets.PointerShape.PointerShapeManager
+  href: api/JMRSDKExampleSnippets.PointerShapeManager.html
+  commentId: T:JMRSDKExampleSnippets.PointerShapeManager
+  fullName: JMRSDKExampleSnippets.PointerShapeManager
   nameWithType: PointerShapeManager
-- uid: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.AddDisabledCursor(GameObject)
+- uid: JMRSDKExampleSnippets.PointerShapeManager.AddDisabledCursor(GameObject)
   name: AddDisabledCursor(GameObject)
-  href: api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShape_PointerShapeManager_AddDisabledCursor_GameObject_
-  commentId: M:JMRSDKExampleSnippets.PointerShape.PointerShapeManager.AddDisabledCursor(GameObject)
-  fullName: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.AddDisabledCursor(GameObject)
+  href: api/JMRSDKExampleSnippets.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShapeManager_AddDisabledCursor_GameObject_
+  commentId: M:JMRSDKExampleSnippets.PointerShapeManager.AddDisabledCursor(GameObject)
+  fullName: JMRSDKExampleSnippets.PointerShapeManager.AddDisabledCursor(GameObject)
   nameWithType: PointerShapeManager.AddDisabledCursor(GameObject)
-- uid: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.AddDisabledCursor*
+- uid: JMRSDKExampleSnippets.PointerShapeManager.AddDisabledCursor*
   name: AddDisabledCursor
-  href: api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShape_PointerShapeManager_AddDisabledCursor_
-  commentId: Overload:JMRSDKExampleSnippets.PointerShape.PointerShapeManager.AddDisabledCursor
+  href: api/JMRSDKExampleSnippets.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShapeManager_AddDisabledCursor_
+  commentId: Overload:JMRSDKExampleSnippets.PointerShapeManager.AddDisabledCursor
   isSpec: "True"
-  fullName: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.AddDisabledCursor
+  fullName: JMRSDKExampleSnippets.PointerShapeManager.AddDisabledCursor
   nameWithType: PointerShapeManager.AddDisabledCursor
-- uid: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.CallCursor(System.Int32)
+- uid: JMRSDKExampleSnippets.PointerShapeManager.CallCursor(System.Int32)
   name: CallCursor(Int32)
-  href: api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShape_PointerShapeManager_CallCursor_System_Int32_
-  commentId: M:JMRSDKExampleSnippets.PointerShape.PointerShapeManager.CallCursor(System.Int32)
-  fullName: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.CallCursor(System.Int32)
+  href: api/JMRSDKExampleSnippets.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShapeManager_CallCursor_System_Int32_
+  commentId: M:JMRSDKExampleSnippets.PointerShapeManager.CallCursor(System.Int32)
+  fullName: JMRSDKExampleSnippets.PointerShapeManager.CallCursor(System.Int32)
   nameWithType: PointerShapeManager.CallCursor(Int32)
-- uid: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.CallCursor*
+- uid: JMRSDKExampleSnippets.PointerShapeManager.CallCursor*
   name: CallCursor
-  href: api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShape_PointerShapeManager_CallCursor_
-  commentId: Overload:JMRSDKExampleSnippets.PointerShape.PointerShapeManager.CallCursor
+  href: api/JMRSDKExampleSnippets.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShapeManager_CallCursor_
+  commentId: Overload:JMRSDKExampleSnippets.PointerShapeManager.CallCursor
   isSpec: "True"
-  fullName: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.CallCursor
+  fullName: JMRSDKExampleSnippets.PointerShapeManager.CallCursor
   nameWithType: PointerShapeManager.CallCursor
-- uid: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.Cursor1Prefab
+- uid: JMRSDKExampleSnippets.PointerShapeManager.Cursor1Prefab
   name: Cursor1Prefab
-  href: api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShape_PointerShapeManager_Cursor1Prefab
-  commentId: F:JMRSDKExampleSnippets.PointerShape.PointerShapeManager.Cursor1Prefab
-  fullName: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.Cursor1Prefab
+  href: api/JMRSDKExampleSnippets.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShapeManager_Cursor1Prefab
+  commentId: F:JMRSDKExampleSnippets.PointerShapeManager.Cursor1Prefab
+  fullName: JMRSDKExampleSnippets.PointerShapeManager.Cursor1Prefab
   nameWithType: PointerShapeManager.Cursor1Prefab
-- uid: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.Cursor2Prefab
+- uid: JMRSDKExampleSnippets.PointerShapeManager.Cursor2Prefab
   name: Cursor2Prefab
-  href: api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShape_PointerShapeManager_Cursor2Prefab
-  commentId: F:JMRSDKExampleSnippets.PointerShape.PointerShapeManager.Cursor2Prefab
-  fullName: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.Cursor2Prefab
+  href: api/JMRSDKExampleSnippets.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShapeManager_Cursor2Prefab
+  commentId: F:JMRSDKExampleSnippets.PointerShapeManager.Cursor2Prefab
+  fullName: JMRSDKExampleSnippets.PointerShapeManager.Cursor2Prefab
   nameWithType: PointerShapeManager.Cursor2Prefab
-- uid: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.CursorParent
+- uid: JMRSDKExampleSnippets.PointerShapeManager.CursorParent
   name: CursorParent
-  href: api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShape_PointerShapeManager_CursorParent
-  commentId: F:JMRSDKExampleSnippets.PointerShape.PointerShapeManager.CursorParent
-  fullName: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.CursorParent
+  href: api/JMRSDKExampleSnippets.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShapeManager_CursorParent
+  commentId: F:JMRSDKExampleSnippets.PointerShapeManager.CursorParent
+  fullName: JMRSDKExampleSnippets.PointerShapeManager.CursorParent
   nameWithType: PointerShapeManager.CursorParent
-- uid: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.PointerObject
+- uid: JMRSDKExampleSnippets.PointerShapeManager.PointerObject
   name: PointerObject
-  href: api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShape_PointerShapeManager_PointerObject
-  commentId: F:JMRSDKExampleSnippets.PointerShape.PointerShapeManager.PointerObject
-  fullName: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.PointerObject
+  href: api/JMRSDKExampleSnippets.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShapeManager_PointerObject
+  commentId: F:JMRSDKExampleSnippets.PointerShapeManager.PointerObject
+  fullName: JMRSDKExampleSnippets.PointerShapeManager.PointerObject
   nameWithType: PointerShapeManager.PointerObject
-- uid: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.Start
+- uid: JMRSDKExampleSnippets.PointerShapeManager.Start
   name: Start()
-  href: api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShape_PointerShapeManager_Start
-  commentId: M:JMRSDKExampleSnippets.PointerShape.PointerShapeManager.Start
-  fullName: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.Start()
+  href: api/JMRSDKExampleSnippets.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShapeManager_Start
+  commentId: M:JMRSDKExampleSnippets.PointerShapeManager.Start
+  fullName: JMRSDKExampleSnippets.PointerShapeManager.Start()
   nameWithType: PointerShapeManager.Start()
-- uid: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.Start*
+- uid: JMRSDKExampleSnippets.PointerShapeManager.Start*
   name: Start
-  href: api/JMRSDKExampleSnippets.PointerShape.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShape_PointerShapeManager_Start_
-  commentId: Overload:JMRSDKExampleSnippets.PointerShape.PointerShapeManager.Start
+  href: api/JMRSDKExampleSnippets.PointerShapeManager.html#JMRSDKExampleSnippets_PointerShapeManager_Start_
+  commentId: Overload:JMRSDKExampleSnippets.PointerShapeManager.Start
   isSpec: "True"
-  fullName: JMRSDKExampleSnippets.PointerShape.PointerShapeManager.Start
+  fullName: JMRSDKExampleSnippets.PointerShapeManager.Start
   nameWithType: PointerShapeManager.Start

@@ -11,8 +11,8 @@
   },
   "index.html": {
     "href": "index.html",
-    "title": "ExampleSnippets-PointerShape | JMR Samples",
-    "keywords": "ExampleSnippets-PointerShape Example of changing pointer shape, adding crosshair."
+    "title": "Pointer Shape | JMR Samples",
+    "keywords": "Pointer Shape Examples of changing pointer shape and adding crosshair. There are 3 default pointer shapes: Default Cursor Manipulation Cursor Rotation Cursor More pointers shapes can be added and used as shown here . Scripts PointerShapeManager.cs Example of changing pointer shape (inbuilt and custom prefabs). Finding pointer gameobject and CursorVisual gameobject. cs GameObject PointerObject = FindObjectOfType<JMRAnimatedCursor>().transform; CursorParent = FindObjectInChilds(PointerObject.gameObject, \"CursorVisual\").transform; How to use? Download and unzip this project. Open the project using Unity Hub. Download and import the latest version of JMRSDK package. Open and play the PointerShape scene from Assets/Scenes folder."
   },
   "manual/JMRSamples.html": {
     "href": "manual/JMRSamples.html",

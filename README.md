@@ -5,6 +5,7 @@ There are 3 default pointer shapes:
 1. Default Cursor
 2. Manipulation Cursor
 3. Rotation Cursor
+
 More pointers shapes can be added and used as shown [here](https://github.com/JioGlass-Dev/ExampleSnippets-PointerShape/blob/1d71d36e84aa91de92abd31568cfb5b41997e911/Assets/Scripts/PointerShapeManager.cs#L48).
 
 ## Scripts 
